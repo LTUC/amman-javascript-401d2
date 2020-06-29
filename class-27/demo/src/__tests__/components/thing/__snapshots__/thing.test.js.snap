@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Thing/> Renders correctly 1`] = `
+<section>
+  <p
+    id="me"
+  >
+    Current Val: 
+    true
+  </p>
+  <aside>
+    <h2>
+      hi
+    </h2>
+  </aside>
+  <button
+    onClick={[Function]}
+  >
+    Change
+  </button>
+</section>
+`;
